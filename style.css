@@ -19,13 +19,15 @@ h2 {
 }
 
 #theNickestNames { 
+    text-align: left;
     margin-left: 15%; 
     padding: 10px; 
     color: white; 
 }
 
 #OrgansTori {
-    float: right;
-    margin-right: 15%; 
+    text-align: right;
+    margin-right: 15%;
+    padding : 10px;
     color: white;
 }
