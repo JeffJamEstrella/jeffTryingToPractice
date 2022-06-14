@@ -1,0 +1,15 @@
+
+#The_Good_Grass {
+    background-image: url(/Users/jeffjamestrella/Desktop/jeffTryingToPractice/images/bradley-brister-WdsLOJ5BViU-unsplash.jpg);
+    height: 100%;
+    width: 100%;
+    
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    width: 50%; 
+    border: 3px solid yellow;
+    padding: 10px;  
+}
